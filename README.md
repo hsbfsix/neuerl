@@ -1,2 +1,2 @@
 # neuerl
-A neural network simulation library written in Erlang
+This is terrible, please do not use it.
